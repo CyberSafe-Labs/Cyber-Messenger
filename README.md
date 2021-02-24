@@ -1,7 +1,7 @@
 # Messenger
 
 A Clone of Telegram written from the ground up, with a goal of security. Split
-into [frontend](https://github.com/CyberSafe-Labs/Cyber-Messenger/tree/master/frontend) and [backend](https://github.com/CyberSafe-Labs/Cyber-Messenger/tree/master/backend)
+into [frontend](https://github.com/CyberSafe-Labs/Cyber-Messenger/tree/master/frontend) and the backend. Please Note: The backend server is proprietary.
 
 ## Purpose
 
