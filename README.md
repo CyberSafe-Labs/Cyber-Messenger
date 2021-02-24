@@ -67,17 +67,6 @@ pipenv shell
 cd ../
 python -m frontend
 ```
-
-### Backend
-
-```sh
-cd backend/
-pipenv install
-pipenv shell
-cd ../
-python -m backend
-```
-
 ## Future objectives
 
 - Switch form polling the server every so many seconds to `websockets`
