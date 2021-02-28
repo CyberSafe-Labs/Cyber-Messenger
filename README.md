@@ -1,13 +1,12 @@
 ## CyberMessenger
 
-An Open Source Messenger with Anonymity.
+The Ultimate Open Source WebChat Platform
 
 ### How it Works
 
 The Backend Is Powered By Socket.io and the frontend is powered by React.
 
-The Messenger Uses ids to manage users
-The Id Does Not Contain Any Info About the Users.
+This is not a Messenger this is a self-hosted Microsoft Teams alternative.
 
 ### License
 CSL Non-Commercial License
